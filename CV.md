@@ -22,8 +22,8 @@ Seoul National University
 |||Ph.D. in Mathematical Sciences |
 |||Advisor: [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/) |
 |  **10-17** || **Seoul National University(SNU)**|
-|||B.S. in Mathematics and Physcis|
-|||Teacher Certification Regulations of Mathematics and Physics|
+|||B.S. in Mathematics and Physics|
+|||Teacher Certificate for Mathematics and Physics|
 
 ---
 # Work Experiences
@@ -46,4 +46,4 @@ Seoul National University
 - Excellent Teaching Assistant Award in Department of Mathmatics, SNU, 2019
 - University Students Contest of Mathemaitcs (Bronze prize), 2016
 - College of National Sciences Undergraduate Winter Internship, 2015
-- Education outreach club activity, 2012-2014
+- Education volunteer club activity, 2012-2014
