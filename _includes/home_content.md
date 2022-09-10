@@ -11,5 +11,3 @@ I recently suggested a novel framework called **dilated-coordinate system**, in 
 Seems it was interesting to other people as well, it is accepted in ICML 2022 with long presentation :)  
 
 I am now working on extending this framework to other settings!
-
-아마 한글이 될것 같다
