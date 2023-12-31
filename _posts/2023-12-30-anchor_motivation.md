@@ -77,8 +77,12 @@ $$
 and the simulation for this dynamics with initial value $$ \begin{pmatrix} X_0 \\ Y_0 \end{pmatrix} = \begin{pmatrix} 1 \\ 0 \end{pmatrix}$$ is as follows.
 
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   <img src="/img/posts/without_anchor.gif" alt="Local GIF" width="360" height="366">
+</div> -->
+
+<div style="text-align:center;">
+  <img src="/img/posts/without_anchor.gif" alt="Local GIF" width="60%" height="auto">
 </div>
 
 We see the flow becomes rotation and does not converge to the zero of $$\mathbb{A} = \begin{pmatrix} 0 & 1 \\ -1 & 0 \end{pmatrix}$$, the origin. 
@@ -101,8 +105,12 @@ $$
 In the above equation, we call $$\begin{pmatrix} X_0 \\ Y_0 \end{pmatrix}$$ as an anchor. 
 The role of the anchor is captured in the below simulation. 
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   <img src="/img/posts/anchor_animation.gif" alt="Local GIF" width="632" height="312">
+</div> -->
+
+<div style="text-align:center;">
+  <img src="/img/posts/anchor_animation.gif" alt="Local GIF" width="100%" height="auto">
 </div>
 
 <!-- The term $$\begin{pmatrix} X \\ Y \end{pmatrix} - \begin{pmatrix} X_0 \\ Y_0 \end{pmatrix}$$ corresponds to the red line segment in the simulation. 
