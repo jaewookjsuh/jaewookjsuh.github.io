@@ -7,7 +7,7 @@ background:
 
 
 # Jaewook J. Suh
-jacksuhkr@snu.ac.kr   
+jacksuhkr@gmail.com, jacksuhkr@snu.ac.kr   
 1, Gwanak-ro, Gwanak-gu, Seoul, Republic of Korea  
 27-431, Department of Mathematical Sciences  
 Seoul National University  
