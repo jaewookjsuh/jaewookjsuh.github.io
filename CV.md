@@ -27,7 +27,7 @@ Seoul National University
 |:---|---|---|
 | **2018-**      |　　　　| **Seoul National University(SNU)**|
 |||Ph.D. in Mathematical Sciences |
-|||Advisor: [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/) |
+|||Advisor: [Ernest K. Ryu](https://ernestryu.com/) |
 |  **2010-2017** || **Seoul National University(SNU)**|
 |||B.S. in Mathematics and Physics|
 |||Teacher Certificate for Mathematics and Physics|
