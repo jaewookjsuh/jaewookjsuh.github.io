@@ -26,9 +26,9 @@ Rice University
 | | | |  
 |:---|---|---|
 | **2024-**      |　　　　| **Rice University**|
-|||Academic Visitor in Computational Applied Mathematics & Operations Research |
+|||Visiting Researcher in CMOR |
 |||Advisor: [Shiqian Ma](https://sqma.rice.edu/) |
-| **2018-2024**      |　　　　| **Seoul National University**|
+| **2018-2024**  || **Seoul National University**|
 |||Ph.D. in Mathematical Sciences |
 |||Advisor: [Ernest K. Ryu](https://ernestryu.com/) |
 |  **2010-2017** || **Seoul National University**|
