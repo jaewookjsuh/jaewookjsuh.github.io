@@ -7,10 +7,10 @@ background:
 
 
 # Jaewook J. Suh
-jacksuhkr@gmail.com, jacksuhkr@snu.ac.kr   
-1, Gwanak-ro, Gwanak-gu, Seoul, Republic of Korea  
-27-431, Department of Mathematical Sciences  
-Seoul National University  
+jacksuh@rice.edu 
+6100 Main St MS 364, Houston, TX 77005
+Anne and Charles Duncan Hall 2001, Department of Computational Applied Mathematics & Operations Research  
+Rice University
  
 
 ---
@@ -25,10 +25,13 @@ Seoul National University
 
 | | | |  
 |:---|---|---|
-| **2018-**      |　　　　| **Seoul National University(SNU)**|
+| **2024-**      |　　　　| **Rice University**|
+|||Academic Visitor in Computational Applied Mathematics & Operations Research |
+|||Advisor: [Shiqian Ma](https://sqma.rice.edu/) |
+| **2018-2024**      |　　　　| **Seoul National University**|
 |||Ph.D. in Mathematical Sciences |
 |||Advisor: [Ernest K. Ryu](https://ernestryu.com/) |
-|  **2010-2017** || **Seoul National University(SNU)**|
+|  **2010-2017** || **Seoul National University**|
 |||B.S. in Mathematics and Physics|
 |||Teacher Certificate for Mathematics and Physics|
 
