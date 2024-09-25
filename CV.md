@@ -7,9 +7,9 @@ background:
 
 
 # Jaewook J. Suh
-jacksuh@rice.edu 
-6100 Main St MS 364, Houston, TX 77005
-Anne and Charles Duncan Hall 2001, Department of Computational Applied Mathematics & Operations Research  
+jacksuh@rice.edu \\
+6100 Main St MS 364, Houston, TX 77005 \\
+Duncan Hall 2001, Department of CMOR  \\
 Rice University
  
 
