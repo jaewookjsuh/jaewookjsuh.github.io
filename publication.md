@@ -8,6 +8,10 @@ background:
 
 # Conference publications
 
+-
+**Optimization Algorithm Design via Electric Circuits.** S. Boyd, T. Parshakova<sup>*</sup>, E. K. Ryu, <u>J. J. Suh</u><sup>*</sup>, Neural Information Processing Systems (spotlight), 2024. \\
+<span style="color: lightgray;"><sup>*</sup>Lead authors (author list ordered alphabetically)</span>
+
 - 
 [**Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique.**](https://arxiv.org/abs/2404.13228) T. Yoon, J. Kim, <u>J. J. Suh</u>, and E. K. Ryu, International Conference on Machine Learning (spotlight, top 335/9483=3.5% of papers), 2024.
 
