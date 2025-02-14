@@ -9,7 +9,7 @@ background:
 # Conference publications
 
 - 
-[**Optimization Algorithm Design via Electric Circuits.**](https://openreview.net/forum?id=9Jmt1eER9P&noteId=Dx2JsNMdTV) S. Boyd, T. Parshakova<sup>*</sup>, E. K. Ryu, <u>J. J. Suh</u><sup>*</sup>, Neural Information Processing Systems (spotlight), 2024. \\
+[**Optimization Algorithm Design via Electric Circuits.**](https://openreview.net/forum?id=9Jmt1eER9P) S. Boyd, T. Parshakova<sup>*</sup>, E. K. Ryu, <u>J. J. Suh</u><sup>*</sup>, Neural Information Processing Systems (spotlight), 2024. \\
 <span style="color: lightgray;"><sup>*</sup>Lead authors (author list ordered alphabetically)</span>
 
 - 
