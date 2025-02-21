@@ -21,13 +21,19 @@ Rice University
     Theoretical Analysis to Machine Learning Algorithms
 
 ---
-# Education
+# Research Experience
 
 | | | |  
 |:---|---|---|
 | **2024-**      |　　　　| **Rice University**|
-|||Visiting Researcher in CMOR |
+|||Academic Visitor in CMOR |
 |||Advisor: [Shiqian Ma](https://sqma.rice.edu/) |
+
+---
+# Education
+
+| | | |  
+|:---|---|---|
 | **2018-2024**  || **Seoul National University**|
 |||Ph.D. in Mathematical Sciences |
 |||Advisor: [Ernest K. Ryu](https://ernestryu.com/) |
