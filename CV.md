@@ -65,6 +65,7 @@ Rice University
 
 | | | |  
 |:---|---|---|
+| **2025 March**      |　　　　| Purdue University Quantitative Methods Seminar (Indianapolis, USA) |
 | **2023 May**      |　　　　| SIAM Conference on Optimization (Seattle, USA) |
 | **2022 Oct**      |　　　　| INFORMS Annual Meeting (Indianapolis, USA) |
 
