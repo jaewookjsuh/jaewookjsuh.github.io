@@ -10,7 +10,7 @@ background:
 [**An Adaptive and Parameter-Free Nesterov’s Accelerated Gradient Method for Convex Optimization.**](https://arxiv.org/abs/2505.11670) <u>J. J. Suh</u>, S. Ma, 2025.
 
 - 
-[**Numerical Analysis of HiPPO-LegS ODE for Deep State Space Models.**](https://arxiv.org/abs/2412.08595) J. R. Park, <u>J. J. Suh</u>, E. K. Ryu, 2024.
+[**Numerical Analysis of HiPPO-LegS ODE for Deep State Space Models.**](https://arxiv.org/abs/2412.08595) J. R. Park, <u>J. J. Suh</u>, Y. Hong, E. K. Ryu, 2024.
 
 - 
 [**Optimization Algorithm Design via Electric Circuits.**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7db2ffcbfd0bd361d47b7fa612bd2ba2-Abstract-Conference.html) S. Boyd, T. Parshakova<sup>*</sup>, E. K. Ryu, <u>J. J. Suh</u><sup>*</sup>, Neural Information Processing Systems (spotlight), 2024. \\
