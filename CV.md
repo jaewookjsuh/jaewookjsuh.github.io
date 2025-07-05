@@ -16,7 +16,7 @@ Rice University
 ---
 # Research Interests
 - **Optimization** \\
-    Adaptive Algorithms, Accelerated First-Order Methods, Algorithm Complexity, Convex Optimization, Monotone Operator Theory, Continuous Optimization
+    Adaptive Algorithms, Performance Estimation Problem, Accelerated First-Order Methods, Algorithm Complexity, Convex Optimization, Monotone Operator Theory, Continuous Optimization
 - **Machine Learning** \\
     Theoretical Analysis to Machine Learning Algorithms
 
