@@ -26,7 +26,7 @@ Rice University
 | | | |  
 |:---|---|---|
 | **2024-**      |　　　　| **Rice University**|
-|||Academic Visitor in CMOR |
+|||Postdoctoral Associate in CMOR |
 |||Advisor: [Shiqian Ma](https://sqma.rice.edu/) |
 
 ---
@@ -65,9 +65,10 @@ Rice University
 
 | | | |  
 |:---|---|---|
-| **2025 March**      |　　　　| Purdue University Quantitative Methods Seminar (Indianapolis, USA) |
+| **2025 Jul.**      |　　　　| ICCOPT (Los Angeles, USA) |
+| **2025 Mar.**      |　　　　| Purdue University Quantitative Methods Seminar (Indianapolis, USA) |
 | **2023 May**      |　　　　| SIAM Conference on Optimization (Seattle, USA) |
-| **2022 Oct**      |　　　　| INFORMS Annual Meeting (Indianapolis, USA) |
+| **2022 Oct.**      |　　　　| INFORMS Annual Meeting (Indianapolis, USA) |
 
 
 ---
