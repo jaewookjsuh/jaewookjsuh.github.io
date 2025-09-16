@@ -6,7 +6,7 @@ background:
 ---
 
 - 
-[**Swapping objectives accelerates Davis-Yin splitting.**](https://arxiv.org/abs/2506.23475) E. D. H. Nguyen, <u>J. J. Suh</u>, X. Jiang, S. Ma, 2025.
+[**Exact worst-case convergence rates for Douglas--Rachford and Davis--Yin splitting methods.**](https://arxiv.org/abs/2506.23475) E. D. H. Nguyen, <u>J. J. Suh</u>, X. Jiang, S. Ma, 2025.
 
 - 
 [**An Adaptive and Parameter-Free Nesterov’s Accelerated Gradient Method for Convex Optimization.**](https://arxiv.org/abs/2505.11670) <u>J. J. Suh</u>, S. Ma, 2025.
