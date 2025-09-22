@@ -54,6 +54,7 @@ Rice University
 
 | | | |  
 |:---|---|---|
+| **2024**      |　　　　| Postdoctoral Fellowship Program (Nurturing Next-Generation Researchers), granted by the National Research Foundation of Korea (NRF)
 | **2022**      |　　　　| Google Travel Grant Award to attend ICML |
 | **2019**      |　　　　| Excellent Teaching Assistant Award |
 | **2010-2013**      |　　　　| National Scholarship for Science and Engineering |
@@ -64,7 +65,7 @@ Rice University
 # Talks
 
 - **2025 Jul.** ICCOPT (Los Angeles, USA)  
-- **2025 Mar.** Purdue University Quantitative Methods Seminar (Indianapolis, USA)  
+- **2025 Mar.** Purdue Univ. Quantitative Methods Seminar (Indianapolis, USA)  
 - **2023 May** SIAM Conference on Optimization (Seattle, USA)  
 - **2022 Oct.** INFORMS Annual Meeting (Indianapolis, USA)
 
