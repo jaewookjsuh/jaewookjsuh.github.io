@@ -5,12 +5,14 @@ description:
 background: 
 ---
 
-
 # Jaewook J. Suh
 jacksuh@rice.edu \\
 6100 Main St MS 364, Houston, TX 77005 \\
 Duncan Hall 2001, Department of CMOR  \\
-Rice University
+Rice University 
+
+[Download Full CV (PDF)](https://jaewookjsuh.github.io/Curriculum_Vitae_Jaewook_J_Suh.pdf)
+
  
 
 ---
