@@ -66,6 +66,7 @@ Rice University
 ---
 # Talks
 
+- **2025 Oct.** INFORMS Annual Meeting (Georgia, USA)
 - **2025 Jul.** ICCOPT (Los Angeles, USA)  
 - **2025 Mar.** Purdue Univ. Quantitative Methods Seminar (Indianapolis, USA)  
 - **2023 May** SIAM Conference on Optimization (Seattle, USA)  
