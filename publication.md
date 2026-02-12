@@ -9,11 +9,11 @@ background:
 
 - [**PEPFlow: A Python Library for the Workflow of Performance Estimation of Optimization Algorithms.**](https://openreview.net/forum?id=tJqsZZBmmB) <u>J. J. Suh</u>, B. Ying, X. Jiang, E. D. H. Nguyen, NeurIPS Workshop on GPU-accelerated and Scalable Optimization, 2025. [[Website](https://pepflow-lib.github.io/PEPFlow/)] [[Github](https://github.com/pepflow-lib/PEPFlow)]
 
-- [**Exact worst-case convergence rates for Douglas--Rachford and Davis--Yin splitting methods.**](https://arxiv.org/abs/2506.23475) E. D. H. Nguyen, <u>J. J. Suh</u>, X. Jiang, S. Ma, 2025.
+- [**Exact worst-case convergence rates for Douglas--Rachford and Davis--Yin splitting methods.**](https://arxiv.org/abs/2506.23475) E. D. H. Nguyen, <u>J. J. Suh</u>, X. Jiang, S. Ma, (under revision in INFORMS Journal on Optimization), 2025 .
 
-- [**An Adaptive and Parameter-Free Nesterov’s Accelerated Gradient Method for Convex Optimization.**](https://arxiv.org/abs/2505.11670) <u>J. J. Suh</u>, S. Ma, 2025.
+- [**An Adaptive and Parameter-Free Nesterov’s Accelerated Gradient Method for Convex Optimization.**](https://arxiv.org/abs/2505.11670) <u>J. J. Suh</u>, S. Ma, (under review in Mathematical Programming), 2025.
 
-- [**Numerical Analysis of HiPPO-LegS ODE for Deep State Space Models.**](https://arxiv.org/abs/2412.08595) J. R. Park, <u>J. J. Suh</u>, Y. Hong, E. K. Ryu, 2024.
+- [**Numerical Analysis of HiPPO-LegS ODE for Deep State Space Models.**](https://arxiv.org/abs/2412.08595) J. R. Park, <u>J. J. Suh</u>, Y. Hong, E. K. Ryu,  (under revision in TMLR), 2024.
 
 - [**Optimization Algorithm Design via Electric Circuits.**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7db2ffcbfd0bd361d47b7fa612bd2ba2-Abstract-Conference.html) S. Boyd, T. Parshakova<sup>*</sup>, E. K. Ryu, <u>J. J. Suh</u><sup>*</sup>, Neural Information Processing Systems (spotlight), 2024. \\
 <span style="color: lightgray;"><sup>*</sup>Lead authors (author list ordered alphabetically)</span>
