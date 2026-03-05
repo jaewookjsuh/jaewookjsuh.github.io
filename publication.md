@@ -15,7 +15,7 @@ background:
 
 - [**Numerical Analysis of HiPPO-LegS ODE for Deep State Space Models.**](https://arxiv.org/abs/2412.08595) J. R. Park, <u>J. J. Suh</u>, Y. Hong, E. K. Ryu,  (under revision in TMLR), 2024.
 
-- [**Optimization Algorithm Design via Electric Circuits.**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7db2ffcbfd0bd361d47b7fa612bd2ba2-Abstract-Conference.html) S. Boyd, T. Parshakova<sup>*</sup>, E. K. Ryu, <u>J. J. Suh</u><sup>*</sup>, Neural Information Processing Systems (spotlight), 2024. \\
+- [**Optimization Algorithm Design via Electric Circuits.**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7db2ffcbfd0bd361d47b7fa612bd2ba2-Abstract-Conference.html) S. Boyd, T. Parshakova<sup>*</sup>, E. K. Ryu, <u>J. J. Suh</u><sup>*</sup>, Neural Information Processing Systems (spotlight), 2024. [[Github](https://github.com/cvxgrp/optimization_via_circuits)] \\
 <span style="color: lightgray;"><sup>*</sup>Lead authors (author list ordered alphabetically)</span>
 
 - [**Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique.**](https://proceedings.mlr.press/v235/yoon24b.html) T. Yoon, J. Kim, <u>J. J. Suh</u>, E. K. Ryu, International Conference on Machine Learning (spotlight, top 335/9483=3.5% of papers), 2024.

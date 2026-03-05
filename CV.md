@@ -61,7 +61,7 @@ Rice University
 
 - **2025 Oct.** INFORMS Annual Meeting
 - **2025 Jul.** ICCOPT  
-- **2025 Mar.** Purdue Univ. Quantitative Methods Seminar  [Slide](https://jaewookjsuh.github.io/files/2025-03-14_Purdue_QM_slides.pdf)
+- **2025 Mar.** Purdue Univ. Quantitative Methods Seminar  [[Slide](https://jaewookjsuh.github.io/files/]2025-03-14_Purdue_QM_slides.pdf)
 - **2023 May** SIAM Conference on Optimization  
 - **2022 Oct.** INFORMS Annual Meeting
 
@@ -74,10 +74,10 @@ Rice University
 
 ---
 # Additional Experience
-- Excellent Teaching Assistant Award in Department of Mathemaitcs, SNU $|$ 2019
-- Intern & Software Development Engineer (Android), AILab & AIBrain $|$ 2016 – 2017
+- Excellent Teaching Assistant Award in Department of Mathemaitcs, SNU | 2019
+- Intern & Software Development Engineer (Android), AILab & AIBrain | 2016 – 2017
   - Designed and implemented a Android mini-game "WordChain"
   - [Demo video 2:10 to 5:15](https://www.youtube.com/watch?v=gwRIo9dSit0)
-- University Students Contest of Mathemaitcs (Bronze prize) $|$ 2016
-- College of National Sciences Undergraduate Winter Internship $|$ 2015
-- Education volunteer club activity $|$ 2012-2014
+- University Students Contest of Mathemaitcs (Bronze prize) | 2016
+- College of National Sciences Undergraduate Winter Internship | 2015
+- Education volunteer club activity | 2012-2014
