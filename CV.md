@@ -11,7 +11,7 @@ jacksuh@rice.edu \\
 Duncan Hall 2001, Department of CMOR  \\
 Rice University 
 
-[Download Full CV (PDF)](https://jaewookjsuh.github.io/Curriculum_Vitae_Jaewook_J_Suh.pdf)
+[Download Full CV (PDF)](https://jaewookjsuh.github.io/files/Curriculum_Vitae_Jaewook_J_Suh.pdf)
 
  
 
@@ -43,13 +43,6 @@ Rice University
 |||B.S. in Mathematics and Physics|
 |||Teacher Certificate for Mathematics and Physics|
 
----
-# Work Experiences
-
-| | | |  
-|:---|---|---|
-| **2016-2017**      |　　　　| **AILab, AIBrain** |
-|||Intern & Software Development Engineer (Android) |
 
 ---
 # Fellowships and Awards
@@ -68,7 +61,7 @@ Rice University
 
 - **2025 Oct.** INFORMS Annual Meeting (Georgia, USA)
 - **2025 Jul.** ICCOPT (Los Angeles, USA)  
-- **2025 Mar.** Purdue Univ. Quantitative Methods Seminar (Indianapolis, USA)  
+- **2025 Mar.** Purdue Univ. Quantitative Methods Seminar (Indianapolis, USA)  [Slide](https://jaewookjsuh.github.io/2025-03-14_Purdue_QM_slides.pdf)
 - **2023 May** SIAM Conference on Optimization (Seattle, USA)  
 - **2022 Oct.** INFORMS Annual Meeting (Indianapolis, USA)
 
@@ -78,13 +71,13 @@ Rice University
 # Skills & Languages
 - **Computer Skills** \\
     Python, Java, C++, MATLAB, LaTeX and XML
-- **Languages** \\
-    English (fluent), Korean (native)
 
 ---
-# Other Experiences & Miscellaneous
-<!-- - Basic experience in Python, Java and C++. -->
-<!-- - Excellent Teaching Assistant Award in Department of Mathmatics, SNU, 2019 -->
-- University Students Contest of Mathemaitcs (Bronze prize), 2016
-- College of National Sciences Undergraduate Winter Internship, 2015
-- Education volunteer club activity, 2012-2014
+# Additional Experience
+- Excellent Teaching Assistant Award in Department of Mathemaitcs, SNU $|$ 2019
+- Intern & Software Development Engineer (Android), AILab & AIBrain $|$ 2016 – 2017
+  - Designed and implemented a Android mini-game "WordChain"
+  - [Demo video 2:10 to 5:15](https://www.youtube.com/watch?v=gwRIo9dSit0)
+- University Students Contest of Mathemaitcs (Bronze prize) $|$ 2016
+- College of National Sciences Undergraduate Winter Internship $|$ 2015
+- Education volunteer club activity $|$ 2012-2014
