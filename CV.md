@@ -74,10 +74,10 @@ Rice University
 
 ---
 # Additional Experience
-- Excellent Teaching Assistant Award in Department of Mathemaitcs, SNU, 2019
-- Intern & Software Development Engineer (Android), AILab & AIBrain, 2016 – 2017
-  - Designed and implemented a Android mini-game "WordChain"
+- Excellent Teaching Assistant Award in Department of Mathemaitcs, 2019
+- Intern & Software Development Engineer (Android), AIBrain, 2016–2017
+  - Designed and implemented an Android mini-game "WordChain"
   - [Demo video 2:10 to 5:15](https://www.youtube.com/watch?v=gwRIo9dSit0)
 - University Students Contest of Mathemaitcs (Bronze prize), 2016
 - College of National Sciences Undergraduate Winter Internship, 2015
-- Education volunteer club activity, 2012-2014
+- Education volunteer club activity, 2012–2014
