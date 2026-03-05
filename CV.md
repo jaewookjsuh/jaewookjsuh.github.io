@@ -59,11 +59,11 @@ Rice University
 ---
 # Talks
 
-- **2025 Oct.** INFORMS Annual Meeting (Georgia, USA)
-- **2025 Jul.** ICCOPT (Los Angeles, USA)  
-- **2025 Mar.** Purdue Univ. Quantitative Methods Seminar (Indianapolis, USA)  [Slide](https://jaewookjsuh.github.io/2025-03-14_Purdue_QM_slides.pdf)
-- **2023 May** SIAM Conference on Optimization (Seattle, USA)  
-- **2022 Oct.** INFORMS Annual Meeting (Indianapolis, USA)
+- **2025 Oct.** INFORMS Annual Meeting
+- **2025 Jul.** ICCOPT  
+- **2025 Mar.** Purdue Univ. Quantitative Methods Seminar  [Slide](https://jaewookjsuh.github.io/files/2025-03-14_Purdue_QM_slides.pdf)
+- **2023 May** SIAM Conference on Optimization  
+- **2022 Oct.** INFORMS Annual Meeting
 
 
 
