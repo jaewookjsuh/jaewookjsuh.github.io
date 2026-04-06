@@ -59,16 +59,16 @@ Rice University
 ---
 # Talks
 
-- Adaptive and Tuning-free First-Order Methods via Lyapunov Analysis
-  - **2026 Feb.** University of Waterloo, Combinatorics & Optimization Seminar
-- An Adaptive and Parameter-Free Nesterov’s Accelerated Gradient Method for Convex
-  Optimization
+- *Adaptive and Tuning-free First-Order Methods via Lyapunov Analysis*
+  - **2026 Feb.** University of Waterloo, C&O Seminar
+- *An Adaptive and Parameter-Free Nesterov’s Accelerated Gradient Method for Convex*
+  *Optimization*
   - **2026 Mar.** IOS (INFORMS Optimization Society Conference)
   - **2025 Oct.** INFORMS Annual Meeting
   - **2025 Jul.** ICCOPT  
-- Optimization Algorithm Design via Electric Circuits
+- *Optimization Algorithm Design via Electric Circuits*
   - **2025 Mar.** Purdue Univ. Quantitative Methods Seminar  [[Slide](https://jaewookjsuh.github.io/files/2025-03-14_Purdue_QM_slides.pdf)]
-- Continuous-time Analysis of AGM via Conservation Laws in Dilated Coordinate Systems
+- *Continuous-time Analysis of AGM via Conservation Laws in Dilated Coordinate Systems*
   - **2023 May** SIAM Conference on Optimization  
   - **2022 Oct.** INFORMS Annual Meeting
 
