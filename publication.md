@@ -5,13 +5,13 @@ description:
 background: 
 ---
 
-- [**Adaptive Gradient Descent on Riemannian Manifolds and Its Applications to Gaussian Variational Inference.**](https://openreview.net/forum?id=2TTQjRkgFn)) J. Park<sup>*</sup>, <u>J. J. Suh<sup>*</sup></u>, B. Wang, A. Bhattacharya, S. Ma, International Conference on Learning Representations, 2026 (to appear). <span style="color: lightgray;"><sup>*</sup>Lead authors</span>
+- [**Adaptive Gradient Descent on Riemannian Manifolds and Its Applications to Gaussian Variational Inference.**](https://openreview.net/forum?id=2TTQjRkgFn)) J. Park<sup>*</sup>, <u>J. J. Suh<sup>*</sup></u>, B. Wang, A. Bhattacharya, S. Ma, International Conference on Learning Representations, 2026. <span style="color: lightgray;"><sup>*</sup>Lead authors</span>
 
 - [**PEPFlow: A Python Library for the Workflow of Performance Estimation of Optimization Algorithms.**](https://openreview.net/forum?id=tJqsZZBmmB) <u>J. J. Suh</u>, B. Ying, X. Jiang, E. D. H. Nguyen, NeurIPS Workshop on GPU-accelerated and Scalable Optimization, 2025. [[Website](https://pepflow-lib.github.io/PEPFlow/)] [[Github](https://github.com/pepflow-lib/PEPFlow)]
 
-- [**Exact worst-case convergence rates for Douglas--Rachford and Davis--Yin splitting methods.**](https://arxiv.org/abs/2506.23475) E. D. H. Nguyen, <u>J. J. Suh</u>, X. Jiang, S. Ma, (under revision in INFORMS Journal on Optimization), 2025 .
+- [**Exact worst-case convergence rates for Douglas--Rachford and Davis--Yin splitting methods.**](https://arxiv.org/abs/2506.23475) E. D. H. Nguyen, <u>J. J. Suh</u>, X. Jiang, S. Ma, 2025 .
 
-- [**An Adaptive and Parameter-Free Nesterov’s Accelerated Gradient Method for Convex Optimization.**](https://arxiv.org/abs/2505.11670) <u>J. J. Suh</u>, S. Ma, (under review in Mathematical Programming), 2025.
+- [**An Adaptive and Parameter-Free Nesterov’s Accelerated Gradient Method for Convex Optimization.**](https://arxiv.org/abs/2505.11670) <u>J. J. Suh</u>, S. Ma,  2025.
 
 - [**Numerical Analysis of HiPPO-LegS ODE for Deep State Space Models.**](https://arxiv.org/abs/2412.08595) J. R. Park, <u>J. J. Suh</u>, Y. Hong, E. K. Ryu,  (under revision in TMLR), 2024.
 
