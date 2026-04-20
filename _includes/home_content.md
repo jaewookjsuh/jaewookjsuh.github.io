@@ -1,7 +1,8 @@
 <div align="center" style="margin-bottom: 2rem;">
   <strong>📢 I will present at ICLR 2026 (Poster)</strong><br>
-  <a href="https://iclr.cc/virtual/2026/poster/10011738">Adaptive gradient descent on Riemannian manifolds and its applications to Gaussian variational inference</a>
+  <a href="https://iclr.cc/virtual/2026/poster/10011738"><em>Adaptive gradient descent on Riemannian manifolds and its applications to Gaussian variational inference</em></a>
 </div>
+
 
 
 # About me
