@@ -10,8 +10,7 @@ I received my Ph.D. from the Department of Mathematical Sciences at Seoul Nation
   <p>
     I will be joining the
     <a href="https://sciences.ucf.edu/sdmss/">School of Data, Mathematical, and Statistical Sciences</a>
-    at the University of Central Florida
-    in Fall 2026 as an Assistant Professor, as part of
+    at the University of Central Florida as an Assistant Professor, as part of
     <a href="https://ai.ucf.edu/">UCF's Artificial Intelligence Initiative</a>.
     I welcome inquiries from students interested in pursuing graduate research in
     mathematical optimization, optimization methods for machine learning,
