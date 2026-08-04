@@ -6,6 +6,7 @@ I study mathematical optimization, and my recent research interests are adaptive
 
 I received my Ph.D. from the Department of Mathematical Sciences at Seoul National University, under the supervision of Professor [Ernest K. Ryu](https://ernestryu.com/).
 
+<!-- 
 <div class="prospective-students-box">
   <p>
     I will be joining the
@@ -16,4 +17,4 @@ I received my Ph.D. from the Department of Mathematical Sciences at Seoul Nation
     mathematical optimization, optimization methods for machine learning,
     adaptive and parameter-free algorithms, and computer-assisted algorithm analysis.
   </p>
-</div>
+</div> -->
