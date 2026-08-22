@@ -39,7 +39,7 @@ Rice University
 | **2018-2024**  |　　　　| **Seoul National University**|
 |||Ph.D. in Mathematical Sciences |
 |||Advisor: [Ernest K. Ryu](https://ernestryu.com/) |
-|  **2010-2017** |　　　　| **Seoul National University**|
+|  **2010-2018** |　　　　| **Seoul National University**|
 |||B.S. in Mathematics and Physics|
 |||Teacher Certificate for Mathematics and Physics|
 
