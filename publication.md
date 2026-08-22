@@ -9,7 +9,7 @@ background:
 
 - [**Toward a Systematic Understanding and Interactive Search of Lyapunov-Style Proofs in Optimization.**](https://arxiv.org/abs/2606.26077) T. Yoon, <u>J. J. Suh</u>, E. D. H. Nguyen, B. Ying, S. Ma, 2026.
 
-- [**Adaptive Gradient Descent on Riemannian Manifolds and Its Applications to Gaussian Variational Inference.**](https://openreview.net/forum?id=2TTQjRkgFn)) J. Park<sup>*</sup>, <u>J. J. Suh<sup>*</sup></u>, B. Wang, A. Bhattacharya, S. Ma, *International Conference on Learning Representations*, 2026. <span style="color: lightgray;"><sup>*</sup>Lead authors</span>
+- [**Adaptive Gradient Descent on Riemannian Manifolds and Its Applications to Gaussian Variational Inference.**](https://openreview.net/forum?id=2TTQjRkgFn) J. Park<sup>&#42;</sup>, <u>J. J. Suh</u><sup>&#42;</sup>, B. Wang, A. Bhattacharya, S. Ma, *International Conference on Learning Representations*, 2026. <span style="color: lightgray;"><sup>&#42;</sup>Lead authors</span>
 
 - [**PEPFlow: A Python Library for the Workflow of Performance Estimation of Optimization Algorithms.**](https://openreview.net/forum?id=tJqsZZBmmB) <u>J. J. Suh</u>, B. Ying, X. Jiang, E. D. H. Nguyen, *NeurIPS Workshop on GPU-accelerated and Scalable Optimization*, 2025. [[Website](https://pepflow-lib.github.io/PEPFlow/)] [[Github](https://github.com/pepflow-lib/PEPFlow)]
 
@@ -19,8 +19,8 @@ background:
 
 - [**Numerical Analysis of HiPPO-LegS ODE for Deep State Space Models.**](https://openreview.net/forum?id=83dhVASBPn) J. R. Park, <u>J. J. Suh</u>, Y. Hong, E. K. Ryu, *Transactions on Machine Learning Research*, 2026.
 
-- [**Optimization Algorithm Design via Electric Circuits.**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7db2ffcbfd0bd361d47b7fa612bd2ba2-Abstract-Conference.html) S. Boyd, T. Parshakova<sup>*</sup>, E. K. Ryu, <u>J. J. Suh</u><sup>*</sup>, *Neural Information Processing Systems* (spotlight), 2024. [[Github](https://github.com/cvxgrp/optimization_via_circuits)] \\
-<span style="color: lightgray;"><sup>*</sup>Lead authors (author list ordered alphabetically)</span>
+- [**Optimization Algorithm Design via Electric Circuits.**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7db2ffcbfd0bd361d47b7fa612bd2ba2-Abstract-Conference.html) S. Boyd, T. Parshakova<sup>&#42;</sup>, E. K. Ryu, <u>J. J. Suh</u><sup>&#42;</sup>, *Neural Information Processing Systems* (spotlight), 2024. [[Github](https://github.com/cvxgrp/optimization_via_circuits)] \\
+<span style="color: lightgray;"><sup>&#42;</sup>Lead authors (author list ordered alphabetically)</span>
 
 - [**Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique.**](https://proceedings.mlr.press/v235/yoon24b.html) T. Yoon, J. Kim, <u>J. J. Suh</u>, E. K. Ryu, *International Conference on Machine Learning* (spotlight, top 335/9483=3.5% of papers), 2024.
 
