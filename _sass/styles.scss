@@ -13,3 +13,31 @@
 .prospective-students-box p {
   margin: 0;
 }
+
+.post-tabs {
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #dee2e6;
+}
+
+.post-tabs .nav-link {
+  color: #495057;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 0.9rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.post-tabs .nav-link.active {
+  color: #0085a1;
+}
+
+.post-tab-content .post-preview:first-child {
+  margin-top: 0;
+}
+
+.post-empty {
+  color: #6c757d;
+  font-style: italic;
+  margin: 2rem 0;
+}

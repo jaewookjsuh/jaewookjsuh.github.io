@@ -4,6 +4,7 @@ title: "Motivating example for the study of anchor acceleration"
 date: 2023-12-30
 background: ''
 katex: True
+category: research
 ---
 
 In our paper [**Continuous-time Analysis of Anchor Acceleration**](https://openreview.net/forum?id=rN99gLCBe4&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FConference%2FAuthors%23your-submissions)) 
