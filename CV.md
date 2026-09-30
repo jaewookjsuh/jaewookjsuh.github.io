@@ -6,7 +6,7 @@ background:
 ---
 
 # Jaewook J. Suh
-jacksuh@rice.edu \\
+jjsuh@jhu.edu \\
 6100 Main St MS 364, Houston, TX 77005 \\
 Duncan Hall 2001, Department of CMOR  \\
 Rice University 
@@ -23,13 +23,15 @@ Rice University
     Theoretical Analysis to Machine Learning Algorithms
 
 ---
-# Research Experience
+# Academic Positions
 
 | | | |  
 |:---|---|---|
-| **2024-**      |　　　　| **Rice University**|
-|||Postdoctoral Associate in CMOR |
-|||Advisor: [Shiqian Ma](https://sqma.rice.edu/) |
+| **2026–present** |　　　　| **Johns Hopkins University**|
+|||Lecturer |
+| **2024–present**      |　　　　| **Rice University**|
+|||Postdoctoral research in CMOR |
+|||Working with: [Shiqian Ma](https://sqma.rice.edu/) |
 
 ---
 # Education
@@ -81,10 +83,10 @@ Rice University
 
 ---
 # Additional Experience
-- Excellent Teaching Assistant Award in Department of Mathemaitcs, 2019
+- Excellent Teaching Assistant Award in Department of Mathematics, 2019
 - Intern & Software Development Engineer (Android), AIBrain, 2016–2017
   - Designed and implemented an Android mini-game "WordChain"
   - [Demo video 2:10 to 5:15](https://www.youtube.com/watch?v=gwRIo9dSit0)
-- University Students Contest of Mathemaitcs (Bronze prize), 2016
+- University Students Contest of Mathematics (Bronze prize), 2016
 - College of National Sciences Undergraduate Winter Internship, 2015
 - Education volunteer club activity, 2012–2014
