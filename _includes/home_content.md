@@ -1,8 +1,8 @@
 
 # About me
 Hello, my name is Jaewook Jack Suh. 
-I am currently a Lecturer at Johns Hopkins University. I also conduct postdoctoral research in CMOR at Rice University, working with Professor [Shiqian Ma](https://sqma.rice.edu/).
-My research focuses on adaptive algorithms and computer- and AI-assisted optimization analysis.
+I am currently a Lecturer at Johns Hopkins University. I conduct postdoctoral research, working with Professor [Shiqian Ma](https://shiqianma.github.io/).
+My research focuses on AI-assisted optimization analysis and adaptive algorithms.
 
 I received my Ph.D. from the Department of Mathematical Sciences at Seoul National University, under the supervision of Professor [Ernest K. Ryu](https://ernestryu.com/).
 
