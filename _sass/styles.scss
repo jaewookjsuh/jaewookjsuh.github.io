@@ -41,3 +41,43 @@
   font-style: italic;
   margin: 2rem 0;
 }
+
+// Personal: a chronological collection of videos.
+header.masthead.masthead-compact {
+  margin-bottom: 32px;
+
+  .page-heading {
+    padding: 120px 0 64px;
+
+    h1 { font-size: 54px; }
+    .subheading { font-size: 20px; line-height: 1.5; }
+  }
+}
+
+.personal-moment {
+  margin-bottom: 3.5rem;
+}
+
+.personal-hobbies {
+  border-top: 1px solid #e9ecef;
+  padding-top: 2.5rem;
+
+  > h2 { margin: 0 0 1.5rem; font-size: 1.6rem; line-height: 1.35; }
+  > .personal-moment:not(:last-child) { margin-bottom: 1.2rem; }
+}
+
+.personal-description { margin: 0 0 1.2rem; font-size: 1.05rem; line-height: 1.65; }
+.personal-video { display: block; width: 100%; height: auto; background: #131619; border-radius: 4px; }
+.personal-video-error { margin: 0.75rem 0 0; font-size: 0.9rem; }
+
+@media (max-width: 575.98px) {
+  header.masthead.masthead-compact .page-heading {
+    padding: 100px 0 48px;
+    h1 { font-size: 42px; }
+    .subheading { font-size: 17px; }
+  }
+  .personal-hobbies { padding-top: 2.25rem; }
+  .personal-hobbies > h2 { font-size: 1.35rem; }
+  .personal-description { font-size: 1rem; }
+  .personal-moment { margin-bottom: 2.5rem; }
+}

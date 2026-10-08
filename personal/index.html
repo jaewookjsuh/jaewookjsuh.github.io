@@ -1,0 +1,47 @@
+---
+layout: page
+title: Personal
+description: A few moments beyond research.
+compact_header: true
+permalink: /personal/
+---
+
+<main class="personal-moments" aria-label="Personal moments, from recent years back to childhood">
+  <article class="personal-moment" aria-label="Pikachu in a vector field">
+    <p class="personal-description" id="pikachu-description">GeoGebra is one of the tools I picked up while working toward my mathematics teaching certificate, and I still use it regularly. I try to use visualizations in class to help students build intuition. Here, I used GeoGebra in a calculus class to show what happens when Pikachu is placed in a vector field.</p>
+    <video class="personal-video" controls playsinline preload="none" width="640" height="258"
+      poster="{{ '/personal/img/pikachu-vector-field.jpg' | relative_url }}"
+      aria-label="Pikachu in a vector field" aria-describedby="pikachu-description">
+      <source src="{{ '/personal/videos/pikachu-vector-field.mp4' | relative_url }}" type="video/mp4">
+      Your browser does not support embedded video.
+    </video>
+    <p class="personal-video-error" hidden>This video could not be played. Please try another browser.</p>
+  </article>
+
+  <section class="personal-hobbies" aria-labelledby="hobbies-title">
+    <h2 id="hobbies-title">Hobbies</h2>
+    <article class="personal-moment" aria-label="Billie Jean">
+      <p class="personal-description" id="billie-jean-description">I enjoy singing and dancing. Here’s a little performance I put on at my father’s high school reunion. Moonwalk at 3:37 😄</p>
+      <video class="personal-video" controls playsinline preload="none" width="1280" height="720"
+        poster="{{ '/personal/img/billie-jean.jpg' | relative_url }}"
+        aria-label="Billie Jean" aria-describedby="billie-jean-description">
+        <source src="{{ '/personal/videos/billie-jean.mp4' | relative_url }}" type="video/mp4">
+        Your browser does not support embedded video.
+      </video>
+      <p class="personal-video-error" hidden>This video could not be played. Please try another browser.</p>
+    </article>
+
+    <article class="personal-moment" aria-label="Piano recital">
+      <p class="personal-description" id="piano-description">I used to play the piano from time to time as a teenager. I don’t have a piano at home these days, so I haven’t been playing, but I’d love to get a digital piano someday and pick it up again.</p>
+      <video class="personal-video" controls playsinline preload="none" width="640" height="480"
+        poster="{{ '/personal/img/piano-recital.jpg' | relative_url }}"
+        aria-label="Piano recital" aria-describedby="piano-description">
+        <source src="{{ '/personal/videos/piano-recital.mp4' | relative_url }}" type='video/mp4; codecs="avc1.64001E, fLaC"'>
+        Your browser does not support embedded video.
+      </video>
+      <p class="personal-video-error" hidden>This video could not be played. Please try another browser.</p>
+    </article>
+  </section>
+</main>
+
+<script src="{{ '/assets/personal.js' | relative_url }}" defer></script>

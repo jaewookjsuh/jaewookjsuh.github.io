@@ -29,3 +29,9 @@ plugins:
 # kramdown:
 #   math_engine: katex
 # katex: true
+
+# Keep local source recordings out of the published site.
+exclude:
+  - personal/videos/2006_fantaisie-impromptu.avi
+  - personal/videos/2016_billie_jean.mp4
+  - personal/videos/pikachu_in_vector_field.mp4
