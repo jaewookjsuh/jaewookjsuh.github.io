@@ -14,7 +14,7 @@ background:
 
 - [**PEPFlow: A Python Library for the Workflow of Performance Estimation of Optimization Algorithms.**](https://openreview.net/forum?id=tJqsZZBmmB) <u>J. J. Suh</u>, B. Ying, X. Jiang, E. D. H. Nguyen, *NeurIPS Workshop on GPU-accelerated and Scalable Optimization*, 2025. [[Website](https://pepflow-lib.github.io/PEPFlow/)] [[GitHub](https://github.com/pepflow-lib/PEPFlow)]
 
-- [**Exact worst-case convergence rates for Douglas--Rachford and Davis--Yin splitting methods.**](https://arxiv.org/abs/2506.23475) E. D. H. Nguyen, <u>J. J. Suh</u>, X. Jiang, S. Ma, 2025.
+- [**Exact worst-case convergence rates for Douglas--Rachford and Davis--Yin splitting.**](https://arxiv.org/abs/2506.23475) E. D. H. Nguyen, <u>J. J. Suh</u>, X. Jiang, S. Ma, *INFORMS Journal on Optimization*, 2026 (to appear).
 
 - [**An Adaptive and Parameter-Free Nesterov’s Accelerated Gradient Method for Convex Optimization.**](https://arxiv.org/abs/2505.11670) <u>J. J. Suh</u>, S. Ma, 2025.
 
