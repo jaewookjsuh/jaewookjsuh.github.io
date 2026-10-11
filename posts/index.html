@@ -4,46 +4,41 @@ title: Posts
 background: 
 ---
 
-{% for post in paginator.posts %}
+{% assign research_posts = site.posts | where: "category", "research" %}
+{% assign notes_posts = site.posts | where: "category", "notes" %}
 
-<article class="post-preview">
-  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-    <!-- <h2 class="post-title">{{ post.title }}</h2> -->
-    <h3 class="post-title">{{ post.title }}</h3>
-    {% if post.subtitle %}
-    <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+<ul class="nav nav-tabs post-tabs" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="all-tab" data-toggle="tab" href="#all-posts" role="tab" aria-controls="all-posts" aria-selected="true">All</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="research-tab" data-toggle="tab" href="#research-posts" role="tab" aria-controls="research-posts" aria-selected="false">Research</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="notes-tab" data-toggle="tab" href="#notes-posts" role="tab" aria-controls="notes-posts" aria-selected="false">Notes</a>
+  </li>
+</ul>
+
+<div class="tab-content post-tab-content">
+  <div class="tab-pane fade show active" id="all-posts" role="tabpanel" aria-labelledby="all-tab">
+    {% for post in site.posts %}
+      {% include post_preview.html post=post %}
+    {% endfor %}
+  </div>
+
+  <div class="tab-pane fade" id="research-posts" role="tabpanel" aria-labelledby="research-tab">
+    {% for post in research_posts %}
+      {% include post_preview.html post=post %}
     {% else %}
-    <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
-    {% endif %}
-  </a>
-  <p class="post-meta">Posted by
-    {% if post.author %}
-    {{ post.author }}
+      <p class="post-empty">No research posts yet.</p>
+    {% endfor %}
+  </div>
+
+  <div class="tab-pane fade" id="notes-posts" role="tabpanel" aria-labelledby="notes-tab">
+    {% for post in notes_posts %}
+      {% include post_preview.html post=post %}
     {% else %}
-    {{ site.author }}
-    {% endif %}
-    on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
-  </p>
-</article>
-
-<hr>
-
-{% endfor %}
-
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
-
-<div class="clearfix">
-
-  {% if paginator.previous_page %}
-  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
-    Newer<span class="d-none d-md-inline"> Posts</span></a>
-  {% endif %}
-
-  {% if paginator.next_page %}
-  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
-  {% endif %}
-
+      <p class="post-empty">No notes yet.</p>
+    {% endfor %}
+  </div>
 </div>
-
-{% endif %}

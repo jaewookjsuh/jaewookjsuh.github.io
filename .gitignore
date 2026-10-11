@@ -1,5 +1,13 @@
 _site
+.bundle
+.jekyll-cache
 .sass-cache
 node_modules
+vendor/bundle
 Gemfile.lock
 *.gem
+
+# Local source recordings; publish the optimized copies.
+/personal/videos/2006_fantaisie-impromptu.avi
+/personal/videos/2016_billie_jean.mp4
+/personal/videos/pikachu_in_vector_field.mp4

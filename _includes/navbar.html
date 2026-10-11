@@ -22,6 +22,9 @@
           <a class="nav-link" href="{{ "/posts" | relative_url }}">Posts</a>
         </li>
         {% endcomment %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ '/personal/' | relative_url }}"{% if page.url == '/personal/' %} aria-current="page"{% endif %}>Personal</a>
+        </li>
         <!-- <li class="nav-item">
           <a class="nav-link" href="{{"/contact" | relative_url }}">Contact</a>
         </li> -->
